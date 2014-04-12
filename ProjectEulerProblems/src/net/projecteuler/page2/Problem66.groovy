@@ -1,4 +1,4 @@
-package net.projecteuler
+package net.projecteuler.page2
 
 class Problem66 {
 

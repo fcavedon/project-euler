@@ -1,4 +1,4 @@
-package net.projecteuler
+package net.projecteuler.page2
 
 import org.apache.commons.math3.fraction.Fraction;
 
